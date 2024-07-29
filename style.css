@@ -1,0 +1,42 @@
+body{
+    background-color: #d7dfa3;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.textbox{
+    margin-left: 25%;
+    margin-top: 15%;
+    border: 2px transparent;
+    border-radius: 20px;
+    width: 900px;
+    padding: 50px;
+    background-color: #1a4862;
+}
+
+.textbox h1{
+    color: #d7dfa3;
+}
+
+.textbox textarea{
+    width: 800px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    border: transparent;
+    font-size: x-large;
+}
+
+.char{
+    display: flex;
+}
+
+#rc{
+    padding-left: 350px;
+    margin-top: 20px;
+    color: #d7dfa3;
+}
+
+#tc{
+    margin-top: 20px;
+    color: #d7dfa3;
+}
