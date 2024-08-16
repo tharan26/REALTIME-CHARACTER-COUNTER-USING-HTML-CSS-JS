@@ -1,0 +1,1 @@
+https://tharan26.github.io/REALTIME-CHARACTER-COUNTER-USING-HTML-CSS-JS/
